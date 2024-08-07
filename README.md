@@ -17,10 +17,10 @@ Setup
 
 Ensure you have Flutter installed on your machine. If not, follow the official Flutter installation guide.
 Clone this repository:
-Copygit clone https://github.com/mithulram/TO-DO-List-application---Flutter/tree/todo-app
+Copy git clone https://github.com/mithulram/TO-DO-List-application---Flutter/tree/todo-app
 
 Navigate to the project directory:
-Copycd todo-list-app
+Copy cd todo-app
 
 Get the dependencies:
 Copyflutter pub get
